@@ -12,7 +12,7 @@ Just a lowkey 14-year-old developer...
 *     I'm currently working on [Website: Acromatic Productions](http://its-acromatic.github.io/acromatic-productions)
 *     I'm learning CSS and PHP
 *     I'm open to collaborating on Any Web Development Project, front-end and back-end both.
-*     And, I am Iron Man<a href="https://www.x.com/Arnav_Mishra11" target="_blank" rel="noreferrer"><img
+*     And, I am Iron Man<a href="https://twitter.com/Arnav_Mishra11" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Arnav_Mishra11?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"></a>
                 
                 ### Skills 
