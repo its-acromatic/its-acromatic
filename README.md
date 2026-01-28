@@ -17,7 +17,7 @@ Just a low-key 15-year-old developer…
 
 ---
 
-## **Skills**
+## 🧠 **Skills**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -32,35 +32,70 @@ Just a low-key 15-year-old developer…
 
 ---
 
-## **Socials**
+## 🌐 **Socials**
 
 <p align="left">
-  <a href="https://discord.com/users/arnav.effect">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-  </a>
-  <a href="https://github.com/its-acromatic">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/arnav.effect">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://x.com/Arnav_Mishra11">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X / Twitter" />
-  </a>
+
+<a href="https://discord.com/users/arnav.effect">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord">
+  </picture>
+</a>
+
+<a href="https://github.com/its-acromatic">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub">
+  </picture>
+</a>
+
+<a href="https://instagram.com/arnav.effect">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram">
+  </picture>
+</a>
+
+<a href="https://x.com/Arnav_Mishra11">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X / Twitter">
+  </picture>
+</a>
+
 </p>
 
 ---
 
-## **GitHub Stats**
+<!--## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-acromatic&show_icons=true&count_private=true&hide=issues,prs&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=its-acromatic&show_icons=true&count_private=true&hide=issues,prs&theme=dark&hide_border=true">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=its-acromatic&show_icons=true&count_private=true&hide=issues,prs&hide_border=true"
+      alt="GitHub Stats">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-acromatic&background=1c1917&ring=3382ed&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=its-acromatic&theme=dark&hide_border=true">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=its-acromatic&hide_border=true"
+      alt="GitHub Streak">
+  </picture>
+</p>-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-acromatic&langs_count=10&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=its-acromatic&layout=compact&theme=dark&hide_border=true">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-acromatic&layout=compact&hide_border=true"
+      alt="Top Languages">
+  </picture>
 </p>
